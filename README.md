@@ -40,6 +40,7 @@ When it will read your messages:
 - creating random events
 - answering to buttons instead of pressing them
 - the abyss portal event
+
 The bot does not store the content of your messages, not even in memory.
 
 ### Contact  
