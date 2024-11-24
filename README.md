@@ -33,6 +33,15 @@ The information we collect is essential for the Bot’s functionality, such as s
 - Discord usernames may be displayed in features like leaderboards, which are accessible to all users of the Service.  
 - We do not share your data with third parties.  
 
+### Message Content
+
+The bot will read the content of your messages only for it's functionality.
+When it will read your messages:
+- creating random events
+- answering to buttons instead of pressing them
+- the abyss portal event
+The bot does not store the content of your messages, not even in memory.
+
 ### Contact  
 
 If you have any questions or concerns about this policy or the Bot's operation, please reach out through one of the following methods:  
