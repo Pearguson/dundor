@@ -25,6 +25,8 @@ This Privacy Policy outlines how we collect, use, and protect information when y
 
 We collect and securely store the following information:  
 - Discord user IDs  
+- Timestamps of your registration, last activity, and last use of each command
+- Responses to the optional feedback poll
 
 ### How We Use Your Information  
 
@@ -42,6 +44,21 @@ When it will read your messages:
 - the abyss portal event
 
 The bot does not store the content of your messages, not even in memory.
+
+### Reminders & Notifications  
+
+To provide reminders and notifications, the Bot also stores some activity data alongside your Discord user ID:  
+- **Command timestamps:** we store the time you last used each command. This lets the Bot ping you when a command is ready to use again.  
+- **Activity timestamps:** we store your registration date and the time of your last interaction with the Bot. This is used to:  
+  - ping new players once after roughly 1 hour of inactivity, as a reminder to continue playing.  
+  - send a single direct message 24 hours after registration to players who stopped playing shortly after registering. This message has a short poll asking for feedback on why Dundor wasn't for you.  
+- **Poll responses:** if you answer the feedback poll, your answer is stored and used only to improve Dundor.  
+
+**Managing notifications:**  
+- Command reminders can be turned on or off at any time with the `dun cd` command.  
+- The feedback direct message cannot be disabled, but it is sent only once, if inactive for 24 hours, and never repeated. Answering the poll is completely optional.  
+
+This data is not shared with third parties and is used only for the purposes listed above.
 
 ### Contact  
 
